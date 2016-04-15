@@ -19,10 +19,11 @@ public class EntryListActivity extends FragmentActivity {
     @Override
     protected void onStart() {
         super.onStart();
-        Log.e("dfasdfasd","asdasdass");
+        Log.e("Smudunuri","Git Test");
         Log.e("dfasdfasd","asdasdass");
         Log.e("dfasdfasd","asdasdass");
         Log.e("dfasdfasd","asdasdass");Log.e("dfasdfasd","asdasdass");Log.e("dfasdfasd","asdasdass");Log.e("dfasdfasd","asdasdass");
+        Log.e("dfasdfasd","asdasdass");
 
 
         Log.e("dfasdfasd","asdasdass");

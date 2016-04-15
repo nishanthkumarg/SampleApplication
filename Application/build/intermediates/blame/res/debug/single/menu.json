@@ -1,10 +1,14 @@
 [
     {
-        "merged": "/Users/nishanthkumarg/Nishanth/Android_Studio_2.1/Projects/BasicSyncAdapter/Application/build/intermediates/res/merged/debug/menu/main.xml",
-        "source": "/Users/nishanthkumarg/Nishanth/Android_Studio_2.1/Projects/BasicSyncAdapter/Application/src/main/res/menu/main.xml"
+        "merged": "C:\\Users\\nishanthkumarg\\Nishanth\\Android_Studio_2.1\\Projects\\BasicSyncAdapter\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\nishanthkumarg\\Nishanth\\Android_Studio_2.1\\Projects\\BasicSyncAdapter\\Application\\src\\main\\res\\menu\\main.xml"
     },
     {
-        "merged": "/Users/nishanthkumarg/Nishanth/Android_Studio_2.1/Projects/SampleApplication/Application/build/intermediates/res/merged/debug/menu/main.xml",
-        "source": "/Users/nishanthkumarg/Nishanth/Android_Studio_2.1/Projects/SampleApplication/Application/src/main/res/menu/main.xml"
+        "merged": "C:\\Users\\nishanthkumarg\\Nishanth\\Android_Studio_2.1\\Projects\\SampleApplication\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\nishanthkumarg\\Nishanth\\Android_Studio_2.1\\Projects\\SampleApplication\\Application\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\smudunuri\\AndroidStudioProjects\\GitTestRepo\\SampleApplication\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\smudunuri\\AndroidStudioProjects\\GitTestRepo\\SampleApplication\\Application\\src\\main\\res\\menu\\main.xml"
     }
 ]
