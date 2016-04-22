@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\Users\smudunuri\AndroidStudioProjects\GitTestRepo\SampleApplication\Application\tests\assets"/><source path="C:\Users\smudunuri\AndroidStudioProjects\GitTestRepo\SampleApplication\Application\build\generated\assets\shaders\androidTest\debug"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/nishanthkumarg/Nishanth/Android_Studio_2.1/RC1_143.2783836/Projects/clone4/SampleApplication/Application/tests/assets"/><source path="/Users/nishanthkumarg/Nishanth/Android_Studio_2.1/RC1_143.2783836/Projects/clone4/SampleApplication/Application/build/generated/assets/shaders/androidTest/debug"/></dataSet></merger>

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\smudunuri\\AndroidStudioProjects\\GitTestRepo\\SampleApplication\\Application\\build\\intermediates\\res\\merged\\debug\\values-v21\\values-v21.xml",
+        "outputFile": "/Users/nishanthkumarg/Nishanth/Android_Studio_2.1/RC1_143.2783836/Projects/clone4/SampleApplication/Application/build/intermediates/res/merged/debug/values-v21/values-v21.xml",
         "map": [
             {
                 "to": {
@@ -12,59 +12,7 @@
                     "endOffset": 131
                 },
                 "from": {
-                    "file": "C:\\Users\\smudunuri\\AndroidStudioProjects\\GitTestRepo\\SampleApplication\\Application\\src\\main\\res\\values-v21\\base-template-styles.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 697,
-                        "endLine": 21,
-                        "endColumn": 12,
-                        "endOffset": 774
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\Users\\nishanthkumarg\\Nishanth\\Android_Studio_2.1\\Projects\\BasicSyncAdapter\\Application\\build\\intermediates\\res\\merged\\debug\\values-v21\\values-v21.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endLine": 3,
-                    "endColumn": 12,
-                    "endOffset": 131
-                },
-                "from": {
-                    "file": "C:\\Users\\nishanthkumarg\\Nishanth\\Android_Studio_2.1\\Projects\\BasicSyncAdapter\\Application\\src\\main\\res\\values-v21\\base-template-styles.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 677,
-                        "endLine": 21,
-                        "endColumn": 12,
-                        "endOffset": 753
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\Users\\nishanthkumarg\\Nishanth\\Android_Studio_2.1\\Projects\\SampleApplication\\Application\\build\\intermediates\\res\\merged\\debug\\values-v21\\values-v21.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endLine": 3,
-                    "endColumn": 12,
-                    "endOffset": 131
-                },
-                "from": {
-                    "file": "C:\\Users\\nishanthkumarg\\Nishanth\\Android_Studio_2.1\\Projects\\SampleApplication\\Application\\src\\main\\res\\values-v21\\base-template-styles.xml",
+                    "file": "/Users/nishanthkumarg/Nishanth/Android_Studio_2.1/RC1_143.2783836/Projects/clone4/SampleApplication/Application/src/main/res/values-v21/base-template-styles.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,

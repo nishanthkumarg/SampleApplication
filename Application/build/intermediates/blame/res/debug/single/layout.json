@@ -1,26 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\smudunuri\\AndroidStudioProjects\\GitTestRepo\\SampleApplication\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_indeterminate_progress.xml",
-        "source": "C:\\Users\\smudunuri\\AndroidStudioProjects\\GitTestRepo\\SampleApplication\\Application\\src\\main\\res\\layout\\actionbar_indeterminate_progress.xml"
+        "merged": "/Users/nishanthkumarg/Nishanth/Android_Studio_2.1/RC1_143.2783836/Projects/clone4/SampleApplication/Application/build/intermediates/res/merged/debug/layout/actionbar_indeterminate_progress.xml",
+        "source": "/Users/nishanthkumarg/Nishanth/Android_Studio_2.1/RC1_143.2783836/Projects/clone4/SampleApplication/Application/src/main/res/layout/actionbar_indeterminate_progress.xml"
     },
     {
-        "merged": "C:\\Users\\smudunuri\\AndroidStudioProjects\\GitTestRepo\\SampleApplication\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_entry_list.xml",
-        "source": "C:\\Users\\smudunuri\\AndroidStudioProjects\\GitTestRepo\\SampleApplication\\Application\\src\\main\\res\\layout\\activity_entry_list.xml"
-    },
-    {
-        "merged": "C:\\Users\\nishanthkumarg\\Nishanth\\Android_Studio_2.1\\Projects\\SampleApplication\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_entry_list.xml",
-        "source": "C:\\Users\\nishanthkumarg\\Nishanth\\Android_Studio_2.1\\Projects\\SampleApplication\\Application\\src\\main\\res\\layout\\activity_entry_list.xml"
-    },
-    {
-        "merged": "C:\\Users\\nishanthkumarg\\Nishanth\\Android_Studio_2.1\\Projects\\SampleApplication\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_indeterminate_progress.xml",
-        "source": "C:\\Users\\nishanthkumarg\\Nishanth\\Android_Studio_2.1\\Projects\\SampleApplication\\Application\\src\\main\\res\\layout\\actionbar_indeterminate_progress.xml"
-    },
-    {
-        "merged": "C:\\Users\\nishanthkumarg\\Nishanth\\Android_Studio_2.1\\Projects\\BasicSyncAdapter\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_indeterminate_progress.xml",
-        "source": "C:\\Users\\nishanthkumarg\\Nishanth\\Android_Studio_2.1\\Projects\\BasicSyncAdapter\\Application\\src\\main\\res\\layout\\actionbar_indeterminate_progress.xml"
-    },
-    {
-        "merged": "C:\\Users\\nishanthkumarg\\Nishanth\\Android_Studio_2.1\\Projects\\BasicSyncAdapter\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_entry_list.xml",
-        "source": "C:\\Users\\nishanthkumarg\\Nishanth\\Android_Studio_2.1\\Projects\\BasicSyncAdapter\\Application\\src\\main\\res\\layout\\activity_entry_list.xml"
+        "merged": "/Users/nishanthkumarg/Nishanth/Android_Studio_2.1/RC1_143.2783836/Projects/clone4/SampleApplication/Application/build/intermediates/res/merged/debug/layout/activity_entry_list.xml",
+        "source": "/Users/nishanthkumarg/Nishanth/Android_Studio_2.1/RC1_143.2783836/Projects/clone4/SampleApplication/Application/src/main/res/layout/activity_entry_list.xml"
     }
 ]

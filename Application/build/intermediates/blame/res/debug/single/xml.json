@@ -1,26 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\nishanthkumarg\\Nishanth\\Android_Studio_2.1\\Projects\\BasicSyncAdapter\\Application\\build\\intermediates\\res\\merged\\debug\\xml\\syncadapter.xml",
-        "source": "C:\\Users\\nishanthkumarg\\Nishanth\\Android_Studio_2.1\\Projects\\BasicSyncAdapter\\Application\\src\\main\\res\\xml\\syncadapter.xml"
+        "merged": "/Users/nishanthkumarg/Nishanth/Android_Studio_2.1/RC1_143.2783836/Projects/clone4/SampleApplication/Application/build/intermediates/res/merged/debug/xml/syncadapter.xml",
+        "source": "/Users/nishanthkumarg/Nishanth/Android_Studio_2.1/RC1_143.2783836/Projects/clone4/SampleApplication/Application/src/main/res/xml/syncadapter.xml"
     },
     {
-        "merged": "C:\\Users\\nishanthkumarg\\Nishanth\\Android_Studio_2.1\\Projects\\SampleApplication\\Application\\build\\intermediates\\res\\merged\\debug\\xml\\authenticator.xml",
-        "source": "C:\\Users\\nishanthkumarg\\Nishanth\\Android_Studio_2.1\\Projects\\SampleApplication\\Application\\src\\main\\res\\xml\\authenticator.xml"
-    },
-    {
-        "merged": "C:\\Users\\nishanthkumarg\\Nishanth\\Android_Studio_2.1\\Projects\\BasicSyncAdapter\\Application\\build\\intermediates\\res\\merged\\debug\\xml\\authenticator.xml",
-        "source": "C:\\Users\\nishanthkumarg\\Nishanth\\Android_Studio_2.1\\Projects\\BasicSyncAdapter\\Application\\src\\main\\res\\xml\\authenticator.xml"
-    },
-    {
-        "merged": "C:\\Users\\nishanthkumarg\\Nishanth\\Android_Studio_2.1\\Projects\\SampleApplication\\Application\\build\\intermediates\\res\\merged\\debug\\xml\\syncadapter.xml",
-        "source": "C:\\Users\\nishanthkumarg\\Nishanth\\Android_Studio_2.1\\Projects\\SampleApplication\\Application\\src\\main\\res\\xml\\syncadapter.xml"
-    },
-    {
-        "merged": "C:\\Users\\smudunuri\\AndroidStudioProjects\\GitTestRepo\\SampleApplication\\Application\\build\\intermediates\\res\\merged\\debug\\xml\\authenticator.xml",
-        "source": "C:\\Users\\smudunuri\\AndroidStudioProjects\\GitTestRepo\\SampleApplication\\Application\\src\\main\\res\\xml\\authenticator.xml"
-    },
-    {
-        "merged": "C:\\Users\\smudunuri\\AndroidStudioProjects\\GitTestRepo\\SampleApplication\\Application\\build\\intermediates\\res\\merged\\debug\\xml\\syncadapter.xml",
-        "source": "C:\\Users\\smudunuri\\AndroidStudioProjects\\GitTestRepo\\SampleApplication\\Application\\src\\main\\res\\xml\\syncadapter.xml"
+        "merged": "/Users/nishanthkumarg/Nishanth/Android_Studio_2.1/RC1_143.2783836/Projects/clone4/SampleApplication/Application/build/intermediates/res/merged/debug/xml/authenticator.xml",
+        "source": "/Users/nishanthkumarg/Nishanth/Android_Studio_2.1/RC1_143.2783836/Projects/clone4/SampleApplication/Application/src/main/res/xml/authenticator.xml"
     }
 ]
