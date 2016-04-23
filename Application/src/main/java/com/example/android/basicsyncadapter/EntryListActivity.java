@@ -24,6 +24,13 @@ public class EntryListActivity extends FragmentActivity {
         Log.e("dfasdfasd","asdasdass");
         Log.e("dfasdfasd","asdasdass");Log.e("dfasdfasd","asdasdass");Log.e("dfasdfasd","asdasdass");Log.e("dfasdfasd","asdasdass");
         Log.e("dfasdfasd","asdasdass");
+        Log.e("dfasdfasd","asdasdass");
+        Log.e("dfasdfasd","asdasdass");
+        Log.e("dfasdfasd","asdasdass");
+        Log.e("dfasdfasd","asdasdass");Log.e("dfasdfasd","asdasdass");
+        Log.e("dfasdfasd","asdasdass");
+        Log.e("dfasdfasd","asdasdass");
+
 
     }
 }
