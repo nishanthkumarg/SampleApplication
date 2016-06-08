@@ -14,6 +14,7 @@ public class EntryListActivity extends FragmentActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_entry_list);
+        int x =10;
     }
 
     @Override
